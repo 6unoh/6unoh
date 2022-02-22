@@ -1,0 +1,41 @@
+/* main 페이지 css 파일 */
+body {
+    overflow: auto;
+}
+
+.banner {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url('https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTEwMDhfMTY2%2FMDAxNjMzNjY1NzQ4NDk2.Yvh5jzn0RyHLQUJHm09Ys5-NVkY2DOpUeJoliOErKLcg.Ff3NcXdi5MxWvUp4LaRCLBH8AnJTpfy4Wn0r_c1jxpYg.JPEG.eyeonsecuri%2F21600873.jpg&type=sc960_832');
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+}
+.navbar-brand {
+    margin-left: 100px;
+    padding: 100px;
+
+}
+
+.row {
+    padding: 100px 200px 200px;
+}
+
+.d-flex {
+    margin-left: 600px;
+    margin-right: 60px;
+}
+
+.add_btn {
+    margin-top: 20px;
+    margin-left: 1600px;
+}
+
+h2 {
+    height: 80px;
+    font-size: 22px;
+    padding: 5px 5px;
+    margin: 100px;
+    position: absolute;
+    color: white;
+}
+
+
